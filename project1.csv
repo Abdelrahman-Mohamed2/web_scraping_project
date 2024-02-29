@@ -1,0 +1,101 @@
+name,tags,difficulty
+One-Dimensional Puzzle,"['combinatorics', 'math', 'number theory']",2000
+Chat Screenshots,"['combinatorics', 'dfs and similar', 'graphs']",1700
+Anna and the Valentine's Day Gift,"['games', 'greedy', 'math', 'sortings']",1400
+Divisible Pairs,"['combinatorics', 'math', 'number theory']",1300
+Make Equal Again,"['brute force', 'greedy', 'math']",1000
+Make Equal,['greedy'],800
+Recovering a Small String,"['brute force', 'strings']",800
+Sasha and a Walk in the City,"['combinatorics', 'dp', 'math', 'trees']",1900
+Sasha and the Casino,"['binary search', 'brute force', 'constructive algorithms', 'games', 'greedy', 'math']",1400
+Sasha and the Drawing,"['constructive algorithms', 'greedy', 'math']",800
+Sasha and the Beautiful Array,"['constructive algorithms', 'greedy', 'math', 'sortings']",800
+Lonely Mountain Dungeons,"['brute force', 'data structures', 'greedy', 'math', 'ternary search']",1900
+Physical Education Lesson,"['brute force', 'math', 'number theory']",1600
+Equalize,"['binary search', 'greedy', 'sortings', 'two pointers']",1200
+Rectangle Cutting,"['geometry', 'math']",800
+Microcycle,"['data structures', 'dfs and similar', 'dsu', 'graphs', 'greedy', 'implementation', 'sortings', 'trees']",1900
+Klever Permutation,"['constructive algorithms', 'math', 'two pointers']",1400
+Find the Different Ones!,"['binary search', 'brute force', 'data structures', 'dp', 'dsu', 'greedy', 'two pointers']",1300
+Choose the Different Ones!,"['brute force', 'greedy', 'math']",1000
+Following the String,"['constructive algorithms', 'greedy', 'strings']",900
+Make it White,"['greedy', 'strings']",800
+Good Trip,"['combinatorics', 'dp', 'math', 'probabilities']",1900
+A Balanced Problemset?,"['brute force', 'greedy', 'math', 'number theory']",1200
+We Got Everything Covered!,"['constructive algorithms', 'greedy', 'strings']",800
+Did We Get Everything Covered?,"['constructive algorithms', 'dp', 'greedy', 'shortest paths', 'strings']",1500
+Increasing Subsequences,"['bitmasks', 'constructive algorithms', 'divide and conquer', 'greedy', 'math']",1800
+Berserk Monsters,"['brute force', 'data structures', 'dsu', 'implementation', 'math']",1900
+Closest Cities,"['greedy', 'implementation', 'math']",1300
+Forming Triangles,"['combinatorics', 'constructive algorithms', 'math', 'sortings']",1200
+Tricky Template,"['constructive algorithms', 'implementation', 'strings']",800
+Sum of Progression,"['brute force', 'data structures', 'dp', 'implementation', 'math']",1900
+Eat the Chip,"['brute force', 'games', 'greedy', 'math']",1600
+Very Different Array,"['data structures', 'greedy', 'sortings', 'two pointers']",1100
+Sending Messages,"['greedy', 'math']",900
+Arranging Cats,"['greedy', 'implementation']",800
+Square,"['greedy', 'math']",800
+Array Repetition,"['binary search', 'brute force', 'dsu', 'implementation', 'math']",1900
+Partitioning the Array,"['brute force', 'math', 'number theory']",1600
+Summation Game,"['games', 'greedy', 'math', 'sortings']",1100
+Satisfying Constraints,"['brute force', 'greedy', 'math']",800
+Tree Diameter,"['interactive', 'trees']",2000
+Grouping Increases,"['data structures', 'dp', 'greedy']",1400
+Plus-Minus Split,['greedy'],800
+Wallet Exchange,"['games', 'math']",800
+Blocking Elements,"['binary search', 'data structures', 'dp', 'implementation', 'two pointers']",1900
+XOR-distance,"['bitmasks', 'greedy', 'implementation', 'math']",1400
+Minimize Inversions,"['constructive algorithms', 'data structures', 'greedy', 'implementation', 'sortings']",900
+Brick Wall,"['constructive algorithms', 'greedy', 'implementation', 'math']",800
+Watering an Array,"['brute force', 'greedy', 'implementation', 'math']",1600
+Erase First or Second Letter,"['brute force', 'combinatorics', 'data structures', 'dp', 'strings']",1100
+Least Product,"['constructive algorithms', 'math']",800
+Mathematical Problem,"['brute force', 'constructive algorithms', 'geometry', 'math']",1700
+Training Before the Olympiad,"['constructive algorithms', 'games', 'greedy', 'implementation', 'math']",1200
+Two Divisors,"['constructive algorithms', 'math', 'number theory']",1000
+2023,"['constructive algorithms', 'implementation', 'math', 'number theory']",800
+Bicycles,"['graphs', 'greedy', 'implementation', 'shortest paths', 'sortings']",1800
+Greetings,"['data structures', 'divide and conquer', 'sortings']",1500
+Romantic Glasses,"['data structures', 'greedy', 'math']",1300
+Unnatural Language Processing,"['greedy', 'implementation', 'strings']",900
+Can I Square?,"['binary search', 'implementation']",800
+Not Quite Latin Square,"['bitmasks', 'brute force', 'implementation']",800
+Odd One Out,"['bitmasks', 'implementation']",800
+Programming Competition,"['dfs and similar', 'dp', 'graph matchings', 'greedy', 'trees']",1900
+Game with Marbles (Hard Version),"['games', 'greedy', 'sortings']",1400
+Game with Marbles (Easy Version),"['brute force', 'games', 'greedy', 'sortings']",1400
+Three Activities,"['brute force', 'dp', 'greedy', 'implementation', 'sortings']",1200
+Quests,"['greedy', 'math']",1100
+Preparing for the Contest,"['constructive algorithms', 'math']",800
+Problemsolving Log,"['implementation', 'strings']",800
+Game with Multiset,"['binary search', 'bitmasks', 'brute force', 'greedy']",1300
+Swap and Delete,['strings'],1000
+Rating Increase,['implementation'],800
+LOL Lovers,['strings'],800
+Kim's Quest,"['bitmasks', 'combinatorics', 'dp']",1800
+Divisibility Test,['math'],1900
+Accumulator Apex,"['data structures', 'implementation', 'sortings']",1900
+Build Railway Stations,"['*special problem', 'greedy', 'trees']",2000
+Remove and Add,"['*special problem', 'greedy']",1800
+Poisonous Swamp,"['*special problem', '*special problem', 'implementation', 'implementation']",1600
+Security Guard,"['*special problem', 'greedy']",1600
+Username,"['*special problem', 'implementation']",1100
+Short Permutation Problem,"['combinatorics', 'dp', 'fft', 'math']",1900
+Split Plus K,"['greedy', 'math', 'number theory']",1900
+Heavy Intervals,"['constructive algorithms', 'data structures', 'dsu', 'greedy', 'math', 'sortings']",1400
+Make Almost Equal With Mod,"['bitmasks', 'constructive algorithms', 'math', 'number theory']",1200
+Distinct Buttons,"['implementation', 'math']",800
+Shift and Reverse,"['greedy', 'sortings']",1800
+Good Triples,"['brute force', 'combinatorics', 'number theory']",1600
+Jumping Through Segments,"['binary search', 'constructive algorithms']",1400
+Removal of Unattractive Pairs,"['constructive algorithms', 'greedy', 'math', 'strings']",1200
+YetnotherrokenKeoard,"['data structures', 'implementation', 'strings']",1000
+Rook,['implementation'],800
+Triangle Construction,"['greedy', 'math']",1700
+Merge Not Sort,"['constructive algorithms', 'dp']",1900
+Easy As ABC,['brute force'],1000
+Cyclic MEX,"['data structures', 'implementation', 'math', 'two pointers']",2000
+Largest Subsequence,"['greedy', 'strings']",1400
+Begginer's Zelda,"['greedy', 'trees']",1100
+Constructive Problems,"['constructive algorithms', 'math']",800
+Set To Max (Hard Version),"['constructive algorithms', 'data structures', 'divide and conquer', 'greedy', 'implementation', 'sortings']",1800
